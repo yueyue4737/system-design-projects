@@ -8,6 +8,8 @@ using namespace std; // not a better way
 
 int main() {
 
+	cout << "hello";
+
 	// read files from the source
 	string filename;
 	cout << "Enter a filename: ";
